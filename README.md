@@ -3,3 +3,10 @@
 This is the last exercise for the 32 JS Gen Git &amp; Github sessions
 
 1. Alfredo Altamirano (ahuahuachi)
+
+
+
+
+
+
+8. Gerardo Cardoso (gcardosovg)
