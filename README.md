@@ -11,3 +11,4 @@ This is the last exercise for the 32 JS Gen Git &amp; Github sessions
 7. Sam Perera (samperera1129)
 8. Hugo Gzz (Stiglittz)
 9. Gerardo Cardoso (gcardosov)
+10. Aldou Laguent (aldoulaguent)
