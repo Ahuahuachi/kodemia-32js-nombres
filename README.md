@@ -5,4 +5,5 @@ This is the last exercise for the 32 JS Gen Git &amp; Github sessions
 1. Alfredo Altamirano (ahuahuachi)
 2. Ricardo Lopez
 3. Fernanda (mafalvarado)
-4. Israel (Isra48)
+4. Gerardo Molar (Molar14)
+5. Israel (Isra48)
