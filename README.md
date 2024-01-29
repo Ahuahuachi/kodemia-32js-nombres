@@ -8,3 +8,4 @@ This is the last exercise for the 32 JS Gen Git &amp; Github sessions
 4. Gerardo Molar (Molar14)
 5. Omar D. Sampayo (gearspeed)
 6. Israel (Isra48)
+7. Sam Perera (samperera1129)
